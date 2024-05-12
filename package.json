@@ -1,0 +1,17 @@
+{
+  "name": "electronjs",
+  "version": "1.0.0",
+  "productName": "Electron Test",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "NODE_ENV=development npx electronmon ."
+  },
+  "author": "Sudip",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^30.0.3",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}

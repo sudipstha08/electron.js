@@ -1,0 +1,47 @@
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# Build output
+dist/
+out/
+build/
+release-builds/
+*.dmg
+*.exe
+*.AppImage
+*.deb
+*.rpm
+*.snap
+
+# Electron packager cache
+.electron/
+electron-packager.json
+
+# Production build files
+node_modules/
+npm-debug.log*
+
+# Environment variables file
+.env
+
+# IDE files
+.vscode/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
